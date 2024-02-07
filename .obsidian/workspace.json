@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "abad6f9f959524d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c423a2582a382aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d31f3d10e6685f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собеседования/Обратная связь.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19edb24fd7fa0996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собеседования/Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7bb8bf6f4270270",
+    "type": "split",
+    "children": [
+      {
+        "id": "354464faef1d37dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fdc29dd439a0af2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f088fdf6ba973e57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1525ab7893d0665",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25a705be388334b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "18eb281c552febdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d568b89802a63286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Собеседования/Principles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf6b6e93224e5d77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Собеседования/Principles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0f38dae4f1a14e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51c3b5dc59e8dcd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Собеседования/Principles.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "19edb24fd7fa0996",
+  "lastOpenFiles": [
+    "Собеседования/Java - Multithreading.md",
+    "Собеседования/Обратная связь.md",
+    "Собеседования/!Теория для собеседования.md",
+    "Собеседования/Principles.md",
+    "Собеседования/Algorithms.md",
+    "Собеседования/Patterns GOF.md",
+    "Книги/Чистая архитектура.md",
+    "Собеседования/Data storage.md",
+    "Собеседования/Algorithms - Sort.md",
+    "Собеседования/Algorithms - Search.md",
+    "Книги/Практика реактивного программирования.md",
+    "Книги/Spring Boot 2.md",
+    "!templates/Книга.md",
+    "Книги/!Книги.md",
+    "Собеседования/Java - Versions.md",
+    "Собеседования/Tests.md",
+    "Собеседования/Spring.md",
+    "Собеседования/Patterns GRASP.md",
+    "Собеседования/Metrics.md",
+    "Собеседования/Message Brokers.md",
+    "Собеседования/Java - Stream API.md",
+    "Собеседования/Java - Object.md",
+    "Собеседования/Java - Network.md",
+    "Собеседования/Java - JVM.md",
+    "Собеседования/Java - Collections.md",
+    "Собеседования/DevOps, CI CD.md",
+    "Собеседования/!attachments/spring_bean_lifecycle.jpg",
+    "Собеседования/!attachments/spring_framework_components.jpg",
+    "Собеседования/!attachments/23_singleton.png",
+    "Собеседования/!attachments/22_flyweight.png",
+    "Собеседования/!attachments/21_facade.png",
+    "Собеседования/!attachments/20_prototype.png",
+    "Собеседования/!attachments/19_factorymethod.png",
+    "Собеседования/!attachments/18_decorator.png",
+    "Собеседования/!attachments/17_builder.png",
+    "Собеседования/!attachments/16_composite.png",
+    "Собеседования/!attachments",
+    "Собеседования",
+    "Тренировки/!attachments",
+    "!templates",
+    "Книги",
+    "Тренировки",
+    "Софт",
+    "Всякое"
+  ]
+}
