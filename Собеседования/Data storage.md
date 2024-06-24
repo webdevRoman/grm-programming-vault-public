@@ -39,12 +39,6 @@ https://habr.com/ru/articles/469415/
 
 ---
 
-### Hibernate
-
-Состояния сущности, transcendent, проблема N+1
-
----
-
 ### Liquibase
 
 Теория

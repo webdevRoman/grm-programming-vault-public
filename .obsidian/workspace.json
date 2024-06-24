@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d31f3d10e6685f3",
+            "id": "760d1636a90063ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собеседования/Обратная связь.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19edb24fd7fa0996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собеседования/Principles.md",
+                "file": "Собеседования/!Теория для собеседования.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
     "id": "25a705be388334b3",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собеседования/Principles.md",
+                "file": "Собеседования/!Теория для собеседования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собеседования/Principles.md",
+                "file": "Собеседования/!Теория для собеседования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Собеседования/Principles.md"
+                "file": "Собеседования/!Теория для собеседования.md"
               }
             }
           }
@@ -159,51 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19edb24fd7fa0996",
+  "active": "760d1636a90063ba",
   "lastOpenFiles": [
-    "Собеседования/Java - Multithreading.md",
-    "Собеседования/Обратная связь.md",
-    "Собеседования/!Теория для собеседования.md",
-    "Собеседования/Principles.md",
-    "Собеседования/Algorithms.md",
-    "Собеседования/Patterns GOF.md",
-    "Книги/Чистая архитектура.md",
+    "Собеседования/Tests.md",
+    "Собеседования/SSL.md",
+    "Собеседования/Spring.md",
+    "Собеседования/REST, HTTP.md",
+    "Собеседования/Project Reactor.md",
+    "Собеседования/Metrics.md",
+    "Собеседования/Message Brokers.md",
+    "Собеседования/JWT.md",
+    "Собеседования/DevOps, CI CD.md",
     "Собеседования/Data storage.md",
     "Собеседования/Algorithms - Sort.md",
     "Собеседования/Algorithms - Search.md",
-    "Книги/Практика реактивного программирования.md",
-    "Книги/Spring Boot 2.md",
-    "!templates/Книга.md",
-    "Книги/!Книги.md",
-    "Собеседования/Java - Versions.md",
-    "Собеседования/Tests.md",
-    "Собеседования/Spring.md",
-    "Собеседования/Patterns GRASP.md",
-    "Собеседования/Metrics.md",
-    "Собеседования/Message Brokers.md",
-    "Собеседования/Java - Stream API.md",
-    "Собеседования/Java - Object.md",
-    "Собеседования/Java - Network.md",
-    "Собеседования/Java - JVM.md",
-    "Собеседования/Java - Collections.md",
-    "Собеседования/DevOps, CI CD.md",
-    "Собеседования/!attachments/spring_bean_lifecycle.jpg",
-    "Собеседования/!attachments/spring_framework_components.jpg",
-    "Собеседования/!attachments/23_singleton.png",
-    "Собеседования/!attachments/22_flyweight.png",
-    "Собеседования/!attachments/21_facade.png",
-    "Собеседования/!attachments/20_prototype.png",
-    "Собеседования/!attachments/19_factorymethod.png",
-    "Собеседования/!attachments/18_decorator.png",
-    "Собеседования/!attachments/17_builder.png",
-    "Собеседования/!attachments/16_composite.png",
+    "Собеседования/Algorithms.md",
+    "Собеседования/!Теория для собеседования.md",
+    "Собеседования/- Обратная связь.md",
+    "Собеседования/- Для подготовки к собесам.md",
+    "Собеседования/Design/Principles.md",
+    "Собеседования/Design/Microservices.md",
+    "Собеседования/Design/GRASP.md",
+    "Собеседования/Design/GOF.md",
+    "Собеседования/Design/!Design.md",
+    "Опыт/SDF UI.md",
+    "Опыт/SDF Core.md",
+    "Опыт/SDC.md",
+    "Опыт/СУР.md",
+    "Опыт/СУ СБО.md",
+    "Опыт",
+    "Собеседования/Design",
+    "Собеседования/Java",
+    "Собеседования/!attachments/pattern_circuit_breaker.png",
+    "Собеседования/!attachments/pattern_server_side_service_discovery.png",
+    "Собеседования/!attachments/pattern_client_side_service_discovery.png",
+    "Собеседования/!attachments/pattern_saga_orchestration_2.png",
+    "Собеседования/!attachments/pattern_saga_orchestration_1.png",
+    "Собеседования/!attachments/pattern_saga_choreography.png",
+    "Собеседования/!attachments/pattern_2pc.png",
+    "Собеседования/!attachments/pattern_cqrs_extended.png",
+    "Собеседования/!attachments/pattern_cqrs_simple.png",
+    "Собеседования/!attachments/java_access_modifiers.png",
+    "!attachments",
     "Собеседования/!attachments",
     "Собеседования",
     "Тренировки/!attachments",
     "!templates",
     "Книги",
-    "Тренировки",
-    "Софт",
-    "Всякое"
+    "Тренировки"
   ]
 }

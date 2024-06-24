@@ -3,6 +3,7 @@ tags:
   - interview
   - patterns
   - principles
+  - design
 ---
 ### Тема
 
@@ -11,3 +12,4 @@ tags:
 ---
 
 [[!Теория для собеседования]]
+[[!Design]]

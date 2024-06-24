@@ -7,6 +7,20 @@ tags:
 
 ![[java_collections_hierarchy.png|700]]
 
+В Java 21 появилась новая группа интерфейсов коллекций, основным из которых является `SequencedCollection`. Он расширяет `Collection`, добавляя в него ряд методов для манипуляций с первым и последним элементами, а также для инвертирования коллекции:
+```java
+interface SequencedCollection<E> extends Collection<E> {
+    void addFirst(E e);
+    void addLast(E e);
+    E getFirst();
+    E getLast();
+    E removeFirst();
+    E removeLast();
+    SequencedCollection<E> reversed();
+}
+```
+`ArrayList` и `LinkedList`, в том числе, поддерживают этот интерфейс.
+
 ---
 
 ### HashMap
@@ -91,3 +105,4 @@ LinkedList, TreeMap, TreeSet
 ---
 
 [[!Теория для собеседования]]
+[[!Java]]

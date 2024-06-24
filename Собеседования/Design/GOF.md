@@ -3,6 +3,7 @@ tags:
   - interview
   - patterns
   - principles
+  - design
 ---
 ### Условные обозначения
 
@@ -101,3 +102,4 @@ tags:
 ---
 
 [[!Теория для собеседования]]
+[[!Design]]
